@@ -1,0 +1,21 @@
+server:
+  port: 8888
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/ofti01/externalized-config
+          repos:
+            prod-properties-repo:
+              uri: https://github.com/ofti01/externalized-config
+              search-paths:
+                - external-configs/prod
+            dev-properties-repo:
+              uri: https://github.com/ofti01/externalized-config
+              search-paths:
+                - external-configs/dev
+            any-properties-repo:
+              uri: https://github.com/ofti01/externalized-config
+              search-paths:
+                - external-configs
