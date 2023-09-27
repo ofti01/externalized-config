@@ -15,7 +15,4 @@ spring:
               uri: https://github.com/ofti01/externalized-config
               search-paths:
                 - external-configs/dev
-            any-properties-repo:
-              uri: https://github.com/ofti01/externalized-config
-              search-paths:
-                - external-configs
+          default-label: master

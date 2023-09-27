@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="58702fbb-9cc9-4cde-b645-03437a614cfb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +42,11 @@
     <property name="jdk.selected.JAVA_MODULE" value="17" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/external-configs/dev" />
+    </key>
+  </component>
   <component name="RunManager" selected="Spring Boot.ConfigServerApplication">
     <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="config-server" />
@@ -69,7 +74,7 @@
       <workItem from="1695743608852" duration="1561000" />
       <workItem from="1695746162855" duration="2279000" />
       <workItem from="1695749342982" duration="2873000" />
-      <workItem from="1695808219971" duration="718000" />
+      <workItem from="1695808219971" duration="2019000" />
     </task>
     <servers />
   </component>
